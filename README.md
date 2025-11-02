@@ -13,10 +13,6 @@ DailyDish is a GUI application with Python that has imported TKinter, which allo
 ## Technologies
 Project is created with:
 
-## Features
- Randomly generated meal ideas
-- Shopping list with checkboxes
-- Embedded URL for full recipe link  
 **Languages**
     Python 3
 
@@ -30,7 +26,12 @@ Project is created with:
   this has been tested on macOS Python 3.0
   
 
-  ## Setup
+## Features
+- Randomly generated meal ideas
+- Shopping list with checkboxes
+- Embedded URL for full recipe link
+  
+## Setup
   Python 3 has been used to get it running, Python 3 needs to be installed,   then open in virtual environment. 
 Run the code and do python debugger 
 
