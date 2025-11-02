@@ -4,6 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Features](#Features)
 * [Setup](#setup)
 
 ## General info
@@ -12,10 +13,6 @@ DailyDish is a GUI application with Python that has imported TKinter, which allo
 ## Technologies
 Project is created with:
 
-**##Features **
-- Randomly generated meal ideas
-- Shopping list with checkboxes
-- Embedded URL for full recipe link
   
 **Languages**
     Python 3
