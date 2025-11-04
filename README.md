@@ -35,5 +35,5 @@ Project is created with:
   Python 3 has been used to get it running, Python 3 needs to be installed,   then open in virtual environment. 
 Run the code and do python debugger 
 
-**##Contact**
+**Contact**
 sofia.kirby-totani@student.uts.edu.au
